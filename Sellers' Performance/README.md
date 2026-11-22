@@ -2,8 +2,6 @@
 
 A Power BI dashboard for sales managers to see how each sales representative is doing: how many products they sold, how much revenue that brought in, how it changed month to month and how close they are to their target.
 
-![Sellers' Performance dashboard](images/dashboard.png)
-
 ## What the dashboard shows
 
 - Number of products sold and total sales value, split by product group
@@ -31,4 +29,4 @@ The data came as two tables: 3,543 sales records with 29 columns, and a table wi
 - `Project Performance.pptx`: the presentation of the project, with the full process
 - `images/`: screenshots of the dashboard and charts
 
-This was a course project. The original Power BI link has expired, so the dashboard is shown here as screenshots.
+This was a course project. The original Power BI link has expired. A new screenshot of the dashboard is coming soon.
