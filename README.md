@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="Sellers'%20Performance/dashboard_walkthrough.mp4"><b>▶ Watch the walkthrough (1:26)</b></a> ·
+  <a href="https://andrescarton.github.io/Power-BI/"><b>▶ Watch the walkthrough (1:26)</b></a> ·
   <a href="Sellers'%20Performance/Dashboard.pbix"><b>⬇ Download the .pbix</b></a> ·
   <a href="Sellers'%20Performance/sales_analysis.ipynb"><b>📓 Open the notebook</b></a>
 </p>
@@ -55,7 +55,7 @@ Everything filters together: click a rep, or pick a year, month, product group o
 | File | What it is |
 |---|---|
 | [`Dashboard.pbix`](Sellers'%20Performance/Dashboard.pbix) | The Power BI report. Opens in the free [Power BI Desktop](https://www.microsoft.com/power-platform/products/power-bi/desktop) |
-| [`dashboard_walkthrough.mp4`](Sellers'%20Performance/dashboard_walkthrough.mp4) | Screen recording of the dashboard in use |
+| [`dashboard_walkthrough.mp4`](https://andrescarton.github.io/Power-BI/) | Screen recording of the dashboard in use ([watch it here](https://andrescarton.github.io/Power-BI/)) |
 | [`sales_analysis.ipynb`](Sellers'%20Performance/sales_analysis.ipynb) | Data cleaning, exploratory analysis and the CatBoost model |
 | [`Project Performance.pptx`](Sellers'%20Performance/Project%20Performance.pptx) | The project presentation |
 
