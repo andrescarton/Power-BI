@@ -2,6 +2,12 @@
 
 A Power BI dashboard for sales managers to see how each sales representative is doing: how many products they sold, how much revenue that brought in, how it changed month to month and how close they are to their target.
 
+![Sellers' Performance dashboard](images/dashboard.png)
+
+**[Watch the full walkthrough (1:26)](dashboard_walkthrough.mp4)** · **[Download the .pbix](Dashboard.pbix)**
+
+![Using the dashboard](images/dashboard_demo.gif)
+
 ## What the dashboard shows
 
 - Number of products sold and total sales value, split by product group
@@ -25,8 +31,10 @@ The data came as two tables: 3,543 sales records with 29 columns, and a table wi
 
 ## Files
 
+- `Dashboard.pbix`: the Power BI file, opens in the free Power BI Desktop
+- `dashboard_walkthrough.mp4`: screen recording of the dashboard in use
 - `sales_analysis.ipynb`: data cleaning, exploratory analysis and the CatBoost model
 - `Project Performance.pptx`: the presentation of the project, with the full process
 - `images/`: screenshots of the dashboard and charts
 
-This was a course project. The original Power BI link has expired. A new screenshot of the dashboard is coming soon.
+This was a course project. The original Power BI link has expired, so the dashboard is shared here as the .pbix file, a screen recording and screenshots.
